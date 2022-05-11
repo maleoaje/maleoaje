@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Onale 
+### Hi there 👋 I'm Omale 
 							😁	Your go to guy for everything flutter 😎😎
 - 🔭 I’m currently working on multiple projects... should appear on my profile soon enough...fingers crossed🤞🏿.
 - 💬 Ask me about Mobile app development, Android apps iOS apps.... Flutter is my playgroud🎮🎮
